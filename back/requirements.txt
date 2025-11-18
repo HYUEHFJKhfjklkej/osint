@@ -1,0 +1,11 @@
+fastapi==0.115.2
+uvicorn[standard]==0.30.6
+sqlalchemy==2.0.23
+aiosqlite==0.20.0
+alembic==1.13.2
+grpcio==1.65.5
+grpcio-tools==1.65.5
+aiokafka==0.10.0
+PyJWT==2.9.0
+python-dotenv==1.0.1
+asyncpg==0.29.0
